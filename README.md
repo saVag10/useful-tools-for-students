@@ -1,6 +1,6 @@
 # Useful Tools for Students
 
-A collaborative guide by saVag10,
+A collaborative guide by Trevor, Skyller and Bann
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,7 +13,7 @@ This guide covers tools that every student should know about.
 Each section explains what the tool is, what it is used for and why it is helpful.
 
 ## VS Code
-Written by: Savag10
+Written by: Trevor
 
 VS Code (Visual Studio Code) is a free code editor developed byb microsoft.
 It is used for writting and editing code in different programming languages.
@@ -27,7 +27,7 @@ It is used for writting and editing code in different programming languages.
 VS Code is great for beginners and professional developers.
 
 ## Notion
-Written by:
+Written by: Skyller
 
 Notion is a all in one productivity tool used for taking notes, planning and organising tasks.
 
@@ -40,7 +40,7 @@ Notion is a all in one productivity tool used for taking notes, planning and org
 Notion helps students stay organised.  
 
 ## Canva
-Written by:
+Written by: Bann
 
 Canva is an online graphic design tool
 It is used to create posters,presentations,flyers and social media designs.
