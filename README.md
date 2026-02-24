@@ -1,6 +1,6 @@
 # Useful Tools for Students
 
-A collaborative guide by Fidel ,paul ,letema
+A collaborative guide by Fidel ,paul ,letema, prince
 
 ## Table of Contents
 - [Introduction](#introduction)
