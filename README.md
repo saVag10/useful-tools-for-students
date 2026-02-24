@@ -27,7 +27,7 @@ It is used for writting and editing code in different programming languages.
 VS Code is great for beginners and professional developers.
 
 ## Notion
-Written by: Skyller
+Written by: sterling
 
 Notion is a all in one productivity tool used for taking notes, planning and organising tasks.
 
