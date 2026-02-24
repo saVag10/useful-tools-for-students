@@ -13,6 +13,7 @@ Written by: Paul
 
 This guide covers tools that every student should know about.
 Each section explains what the tool is, what it is used for and why it is helpful.
+The guide is divided into sub-sections in which each explains whats expected
 
 ## VS Code
 Written by: Letema
