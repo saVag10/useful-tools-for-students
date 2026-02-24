@@ -9,7 +9,7 @@ A collaborative guide by Fidel ,paul ,letema, prince
 - [Canva](#canva)
 
 ## Introduction
-Written by: Paul
+*Written by: Paul*
 
 This guide covers tools that every student should know about.
 Each section explains what the tool is, what it is used for and why it is helpful.
