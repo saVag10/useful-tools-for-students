@@ -13,7 +13,7 @@ This guide covers tools that every student should know about.
 Each section explains what the tool is, what it is used for and why it is helpful.
 
 ## VS Code
-Written by: Trevor
+Written by: Letema
 
 VS Code (Visual Studio Code) is a free code editor developed byb microsoft.
 It is used for writting and editing code in different programming languages.
