@@ -1,6 +1,6 @@
 # Useful Tools for Students
 
-A collaborative guide by Trevor, Skyller and Bann
+A collaborative guide by Fidel 
 
 ## Table of Contents
 - [Introduction](#introduction)
