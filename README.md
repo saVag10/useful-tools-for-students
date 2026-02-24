@@ -9,6 +9,8 @@ A collaborative guide by Fidel ,paul ,letema, prince
 - [Canva](#canva)
 
 ## Introduction
+Written by: Paul
+
 This guide covers tools that every student should know about.
 Each section explains what the tool is, what it is used for and why it is helpful.
 
@@ -27,7 +29,7 @@ It is used for writting and editing code in different programming languages.
 VS Code is great for beginners and professional developers.
 
 ## Notion
-Written by: Cyrus
+Written by: Prince
 
 Notion is a all in one productivity tool used for taking notes, planning and organising tasks.
 
