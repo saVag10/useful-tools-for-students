@@ -40,7 +40,7 @@ Notion is a all in one productivity tool used for taking notes, planning and org
 Notion helps students stay organised.  
 
 ## Canva
-Written by: Reinah
+Written by: Fidel
 
 Canva is an online graphic design tool
 It is used to create posters,presentations,flyers and social media designs.
